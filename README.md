@@ -7,7 +7,7 @@ The code used in this study for data analysis based on MATLAB (version 2022b) an
 
 **Repository contents:**
 - s01_snow_filled
-- s02_sgfilter
+- s02_sgfilter (script based on ENVI Classic 5.3 + IDL 8.5)
 - s03_define_each_component
 - s04_differential_each_component
 - s05_random_forest
